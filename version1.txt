@@ -1,0 +1,9 @@
+This is version 1 of git project.
+This is a new commit1
+This is new commit 2
+
+
+This is a check git diff1.
+
+
+This is check diff2.
